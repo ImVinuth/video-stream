@@ -82,7 +82,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://t.me/VsBOTs"
+                        "🌐 Source Code", url="https://github.com/Vinuth2004"
                     )
                 ],
             ]
